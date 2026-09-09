@@ -7,12 +7,19 @@
 
 # Toyota Connected Services Europe Python module
 
+> [!IMPORTANT]
+> This branch contains a temporary Home Assistant workaround for Toyota API responses where the `remoteDisplay` field is missing.
+>
+> See [Home Assistant `remoteDisplay` workaround](docs/remote_display_home_assistant.md) for installation, verification, and technical details.
+>
+
 ⚠️ _This is still in beta_
 ⚠️ _Only EU is supported, other regions are not possible so far._
 
 ## Summary
 
 - [Toyota Connected Services Europe Python module](#toyota-connected-services-europe-python-module)
+  - [Summary](#summary)
   - [Description](#description)
   - [Installation](#installation)
   - [Docs](#docs)
